@@ -16,6 +16,10 @@ Follow these steps to set up and run Ollama and your AutoGPT project:
      ```
      cd autogpt_platform/backend/
      ```
+   - Install necessary dependencies using poetry:
+     ```
+     poetry install
+     ```     
    - Start the backend using Poetry:
      ```
      poetry run app
